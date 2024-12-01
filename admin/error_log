@@ -1,0 +1,91 @@
+[31-Aug-2024 11:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/index.php:535
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/index.php on line 535
+[31-Aug-2024 12:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/index.php:535
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/index.php on line 535
+[31-Aug-2024 12:18:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[31-Aug-2024 12:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[31-Aug-2024 12:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[31-Aug-2024 12:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[31-Aug-2024 12:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[01-Sep-2024 04:38:49 UTC] PHP Notice:  Undefined index: usermail in /home/fridayin/public_html/Fridayinn/admin/admin.php on line 8
+[01-Sep-2024 04:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 33
+[01-Sep-2024 04:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roomconfirm.php on line 37
+[01-Sep-2024 04:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 17
+[01-Sep-2024 05:00:42 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 19
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Name in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 1
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Email in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 2
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Country in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 3
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Phone in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 4
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: RoomType in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 7
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: RoomType in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 8
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: NoofRoom in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 12
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Meal in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 16
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Meal in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 17
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Meal in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 18
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: Meal in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 19
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: cin in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 22
+[01-Sep-2024 05:10:41 UTC] PHP Notice:  Undefined variable: cout in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 23
+[01-Sep-2024 05:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roombookedit.php on line 17
+[01-Sep-2024 05:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roombook.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roombook.php on line 125
+[01-Sep-2024 05:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/roombook.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/roombook.php on line 131
+[01-Sep-2024 06:30:52 UTC] PHP Notice:  Undefined index: id in /home/fridayin/public_html/Fridayinn/admin/paymantdelete.php on line 5
+[01-Sep-2024 06:50:14 UTC] PHP Notice:  Undefined index: bed in /home/fridayin/public_html/Fridayinn/admin/room.php on line 8
+[02-Sep-2024 04:33:47 UTC] PHP Notice:  Undefined index: usermail in /home/fridayin/public_html/Fridayinn/admin/admin.php on line 8
+[02-Sep-2024 04:33:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 521
+[02-Sep-2024 04:34:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 521
+[02-Sep-2024 04:34:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 521
+[02-Sep-2024 04:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fridayin/public_html/Fridayinn/admin/index.php:552
+Stack trace:
+#0 {main}
+  thrown in /home/fridayin/public_html/Fridayinn/admin/index.php on line 552
+[02-Sep-2024 04:35:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[02-Sep-2024 04:35:36 UTC] PHP Notice:  Undefined index: usermail in /home/fridayin/public_html/Fridayinn/admin/admin.php on line 8
+[02-Sep-2024 04:35:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[02-Sep-2024 04:36:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[02-Sep-2024 04:53:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[02-Sep-2024 04:53:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[02-Sep-2024 04:54:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 05:05:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 05:05:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 05:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 06:12:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 06:12:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 06:13:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
+[03-Sep-2024 06:13:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fridayin/public_html/Fridayinn/admin/index.php on line 520
