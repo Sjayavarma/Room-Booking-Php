@@ -153,8 +153,8 @@ public function index() {
 
 **Jayavarma (Developer)**  
 📩 Email: [your-email@example.com]  
-📱 GitHub: [@yourusername](https://github.com/yourusername)  
-🌍 Project for: Vestin Park Chennai
+📱 GitHub: [@jayavarma](https://github.com/Sjayavarma)  
+🌍 Project for: Fridayinn pondicherry 
 
 ---
 
